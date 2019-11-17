@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>brain.png</file>
+        <file>close_blue.png</file>
+        <file>close_green.png</file>
+        <file>close_pop.png</file>
+        <file>close_red.png</file>
+        <file>help.png</file>
+        <file>info.png</file>
+        <file>options.png</file>
+        <file>close_yellow.png</file>
+        <file>bell.wav</file>
+        <file>license.png</file>
+        <file>notes.png</file>
+    </qresource>
+</RCC>
